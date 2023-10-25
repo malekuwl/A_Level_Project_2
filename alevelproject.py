@@ -1,4 +1,4 @@
-X   import time
+import time
 import turtle
 from turtle import *
 import hashlib
